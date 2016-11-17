@@ -1,0 +1,25 @@
+{
+    "common": {
+        "datasource": {
+            "host": "192.168.247.132",
+            "port": 1521,
+            "schema": "DATABASE",
+            "username": "su",
+            "password": "su2010",
+            "pool": {
+                "max": 5,
+                "min": 0,
+                "idle": 10000
+            }
+        }
+    },
+    "development": {
+
+    },
+    "production": {
+
+    },
+    "test": {
+
+    }
+}
